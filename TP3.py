@@ -1,8 +1,13 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Mar  1 10:25:05 2021
 
-@author: antony
+"""
+TP3Ma123_MethodeNewton
+M.Laurent BLETZACKER
+
+Alexandre Jean-Philippe BESSON
+Antony ABDEL MALAK
+1-PT1
+
 """
 
 from math import sin
